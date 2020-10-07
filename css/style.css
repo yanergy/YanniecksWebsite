@@ -5,13 +5,7 @@ html {
 
 body {
 	background-color: #ffffff;
-	position:relative; 
-	top:25px;
 	font-family: Trebuchet MS;
-	width: 1024px;
-	margin: auto;
-	padding: 24px;	
-	border-radius: 25px;
 	z-index:1;
 }
 
