@@ -1,6 +1,10 @@
 /*background-color: #0B0C10;*/
-body {
+html {
 	background-color: #1f2833;
+}
+
+body {
+	background-color: #ffffff;
 	position:relative; 
 	top:25px;
 	font-family: Trebuchet MS;
